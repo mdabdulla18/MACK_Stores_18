@@ -1,10 +1,11 @@
-🛒 Problem Statement – MACK Stores Salesforce CRM Project
+# 🛒 Problem Statement – MACK Stores Salesforce CRM Project
 
-Project Title : MACK Stores
+Project Title : **MACK Stores**
 Industry : Retail (Supermarket / Department Store, similar to Dmart)
 
--------------------------------------------------------------------------------------------------------------------------------------------
-👥 Target Users
+---
+
+## 👥 Target Users
 
 Store Managers → Need dashboards for store-wise sales, inventory, and staff performance.
 
@@ -18,14 +19,15 @@ Senior Management (Directors/Executives) → Need consolidated reports and analy
 
 Customers (Loyalty Members & Shoppers) → Expect faster billing, accurate loyalty points, and personalized offers.
 
--------------------------------------------------------------------------------------------------------------------------------------------
-📌 Business Context
+---
+
+## 📌 Business Context
 
 MACK Stores operates as a fast-growing retail chain, serving thousands of customers daily across multiple outlets. With a wide product catalog ranging from groceries to household goods, the company faces challenges in delivering seamless customer experiences while managing large-scale operations.
 
--------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-❌ Challenges Faced
+## ❌ Challenges Faced
 
 Scattered Customer Data – Customer information and loyalty details are not centralized, making it hard to track purchase history.
 
@@ -37,9 +39,9 @@ Slow Decision-Making – Store managers and leadership lack real-time dashboards
 
 Operational Inefficiency – No integrated system to connect sales, inventory, and customer loyalty.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-🎯 Need for Salesforce CRM
+## 🎯 Need for Salesforce CRM
 
 MACK Stores requires a centralized Salesforce CRM system to:
 
@@ -53,9 +55,9 @@ Capture orders & billing data from POS/online systems.
 
 Deliver real-time reports & dashboards for sales, store performance, and customer insights.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-✅ Expected Impact
+## ✅ Expected Impact
 
 Faster, personalized customer service → stronger loyalty.
 
@@ -64,3 +66,5 @@ Better inventory control → fewer stockouts and lost sales.
 Improved sales visibility → data-driven decisions.
 
 Streamlined operations → higher efficiency across all stores.
+
+---
