@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title="Relief Case Intake Form">
+        <div class="slds-p-around_medium">
+            <lightning-input label="Name" value={name} onchange={handleNameChange}></lightning-input>
+            <lightning-input label="Description" value={description} onchange={handleDescriptionChange}></lightning-input>
+            <lightning-input type="email" label="Contact Email" value={email} onchange={handleEmailChange}></lightning-input>
+            <lightning-button label="Submit" variant="brand" onclick={handleSubmit}></lightning-button>
+        </div>
+    </lightning-card>
+</template>
